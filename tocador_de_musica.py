@@ -1,3 +1,3 @@
-import player
+from player import tocar_musica
 
-player.tocar_musica()
+tocar_musica()
