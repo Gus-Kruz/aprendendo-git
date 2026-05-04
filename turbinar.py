@@ -1,3 +1,3 @@
 import propulsion
 
-propulison.turbinar()  # Turbina o código
+propulsion.turbinar()  # Turbina o código
